@@ -1,0 +1,18 @@
+[submodule "Delphi-VCLExtend-Library"]
+	path = Delphi-VCLExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-VCLExtend-Library.git
+[submodule "Delphi-FMXExtend-Library"]
+	path = Delphi-FMXExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-FMXExtend-Library.git
+[submodule "Delphi-DBExtend-Library"]
+	path = Delphi-DBExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-DBExtend-Library.git
+[submodule "Delphi-NoCode-Library"]
+	path = Delphi-NoCode-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-NoCode-Library.git
+[submodule "librairies"]
+	path = librairies
+	url = https://github.com/DeveloppeurPascal/librairies.git
+[submodule "androidtv-delphi"]
+	path = androidtv-delphi
+	url = https://github.com/DeveloppeurPascal/androidtv-delphi.git
