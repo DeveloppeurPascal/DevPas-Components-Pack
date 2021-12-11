@@ -35,6 +35,11 @@ https://github.com/DeveloppeurPascal/Delphi-VCLExtend-Library
 
 Librairies et composants dédiés aux projets VCL.
 
+* FMXGameEngine
+https://github.com/DeveloppeurPascal/FMXGameEngine.git
+
+Librairies et composants dédiés à la programmation de jeux vidéos en projets FireMonkey sous Delphi.
+
 * librairies
 https://github.com/DeveloppeurPascal/librairies
 
