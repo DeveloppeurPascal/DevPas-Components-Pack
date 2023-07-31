@@ -25,3 +25,6 @@
 [submodule "Table-Data-Sync-library"]
 	path = Table-Data-Sync-library
 	url = https://github.com/DeveloppeurPascal/Table-Data-Sync-library.git
+[submodule "Delphi-Translation-Library"]
+	path = Delphi-Translation-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-Translation-Library.git
