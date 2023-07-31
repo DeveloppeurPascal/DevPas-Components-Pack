@@ -46,3 +46,6 @@
 [submodule "ZoneAbo4Delphi"]
 	path = ZoneAbo4Delphi
 	url = https://github.com/DeveloppeurPascal/ZoneAbo4Delphi.git
+[submodule "DelphiBooks4Delphi"]
+	path = DelphiBooks4Delphi
+	url = https://github.com/DeveloppeurPascal/DelphiBooks4Delphi.git
