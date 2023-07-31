@@ -31,3 +31,6 @@
 [submodule "Socket-Messaging-Library"]
 	path = Socket-Messaging-Library
 	url = https://github.com/DeveloppeurPascal/Socket-Messaging-Library.git
+[submodule "DeepL4Delphi"]
+	path = DeepL4Delphi
+	url = https://github.com/DeveloppeurPascal/DeepL4Delphi.git
