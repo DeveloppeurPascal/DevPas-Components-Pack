@@ -52,3 +52,6 @@
 [submodule "DelphiBooks-Common"]
 	path = DelphiBooks-Common
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-Common.git
+[submodule "FastSpring4Delphi"]
+	path = FastSpring4Delphi
+	url = https://github.com/DeveloppeurPascal/FastSpring4Delphi.git
