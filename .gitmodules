@@ -55,3 +55,6 @@
 [submodule "FastSpring4Delphi"]
 	path = FastSpring4Delphi
 	url = https://github.com/DeveloppeurPascal/FastSpring4Delphi.git
+[submodule "1TPE4Delphi"]
+	path = 1TPE4Delphi
+	url = https://github.com/DeveloppeurPascal/1TPE4Delphi.git
