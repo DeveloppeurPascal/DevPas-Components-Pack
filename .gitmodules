@@ -49,3 +49,6 @@
 [submodule "DelphiBooks4Delphi"]
 	path = DelphiBooks4Delphi
 	url = https://github.com/DeveloppeurPascal/DelphiBooks4Delphi.git
+[submodule "DelphiBooks-Common"]
+	path = DelphiBooks-Common
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-Common.git
