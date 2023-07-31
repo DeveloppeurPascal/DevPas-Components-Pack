@@ -22,3 +22,6 @@
 [submodule "Delphi-Game-Engine"]
 	path = Delphi-Game-Engine
 	url = https://github.com/DeveloppeurPascal/Delphi-Game-Engine.git
+[submodule "Table-Data-Sync-library"]
+	path = Table-Data-Sync-library
+	url = https://github.com/DeveloppeurPascal/Table-Data-Sync-library.git
