@@ -58,3 +58,6 @@
 [submodule "1TPE4Delphi"]
 	path = 1TPE4Delphi
 	url = https://github.com/DeveloppeurPascal/1TPE4Delphi.git
+[submodule "Signature-Delphi-Component"]
+	path = Signature-Delphi-Component
+	url = https://github.com/DeveloppeurPascal/Signature-Delphi-Component.git
