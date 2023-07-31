@@ -34,3 +34,6 @@
 [submodule "DeepL4Delphi"]
 	path = DeepL4Delphi
 	url = https://github.com/DeveloppeurPascal/DeepL4Delphi.git
+[submodule "Gumroad4Delphi"]
+	path = Gumroad4Delphi
+	url = https://github.com/DeveloppeurPascal/Gumroad4Delphi.git
