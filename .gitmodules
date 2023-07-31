@@ -16,9 +16,9 @@
 [submodule "androidtv-delphi"]
 	path = androidtv-delphi
 	url = https://github.com/DeveloppeurPascal/androidtv-delphi.git
-[submodule "FMXGameEngine"]
-	path = FMXGameEngine
-	url = https://github.com/DeveloppeurPascal/FMXGameEngine.git
 [submodule "AboutDialog-Delphi-Component"]
 	path = AboutDialog-Delphi-Component
 	url = https://github.com/DeveloppeurPascal/AboutDialog-Delphi-Component.git
+[submodule "Delphi-Game-Engine"]
+	path = Delphi-Game-Engine
+	url = https://github.com/DeveloppeurPascal/Delphi-Game-Engine.git
