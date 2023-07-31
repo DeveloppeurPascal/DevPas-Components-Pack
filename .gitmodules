@@ -40,3 +40,6 @@
 [submodule "LemonSqueezy4Delphi"]
 	path = LemonSqueezy4Delphi
 	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
+[submodule "LogNPass4Delphi"]
+	path = LogNPass4Delphi
+	url = https://github.com/DeveloppeurPascal/LogNPass4Delphi.git
