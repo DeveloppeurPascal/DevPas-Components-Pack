@@ -43,3 +43,6 @@
 [submodule "LogNPass4Delphi"]
 	path = LogNPass4Delphi
 	url = https://github.com/DeveloppeurPascal/LogNPass4Delphi.git
+[submodule "ZoneAbo4Delphi"]
+	path = ZoneAbo4Delphi
+	url = https://github.com/DeveloppeurPascal/ZoneAbo4Delphi.git
