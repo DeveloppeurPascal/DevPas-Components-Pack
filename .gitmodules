@@ -37,3 +37,6 @@
 [submodule "Gumroad4Delphi"]
 	path = Gumroad4Delphi
 	url = https://github.com/DeveloppeurPascal/Gumroad4Delphi.git
+[submodule "LemonSqueezy4Delphi"]
+	path = LemonSqueezy4Delphi
+	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
