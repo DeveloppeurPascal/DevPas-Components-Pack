@@ -22,9 +22,6 @@
 [submodule "Delphi-Game-Engine"]
 	path = Delphi-Game-Engine
 	url = https://github.com/DeveloppeurPascal/Delphi-Game-Engine.git
-[submodule "Table-Data-Sync-library"]
-	path = Table-Data-Sync-library
-	url = https://github.com/DeveloppeurPascal/Table-Data-Sync-library.git
 [submodule "Delphi-Translation-Library"]
 	path = Delphi-Translation-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-Translation-Library.git
@@ -34,30 +31,12 @@
 [submodule "DeepL4Delphi"]
 	path = DeepL4Delphi
 	url = https://github.com/DeveloppeurPascal/DeepL4Delphi.git
-[submodule "Gumroad4Delphi"]
-	path = Gumroad4Delphi
-	url = https://github.com/DeveloppeurPascal/Gumroad4Delphi.git
-[submodule "LemonSqueezy4Delphi"]
-	path = LemonSqueezy4Delphi
-	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
 [submodule "LogNPass4Delphi"]
 	path = LogNPass4Delphi
 	url = https://github.com/DeveloppeurPascal/LogNPass4Delphi.git
-[submodule "ZoneAbo4Delphi"]
-	path = ZoneAbo4Delphi
-	url = https://github.com/DeveloppeurPascal/ZoneAbo4Delphi.git
 [submodule "DelphiBooks4Delphi"]
 	path = DelphiBooks4Delphi
 	url = https://github.com/DeveloppeurPascal/DelphiBooks4Delphi.git
 [submodule "DelphiBooks-Common"]
 	path = DelphiBooks-Common
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-Common.git
-[submodule "FastSpring4Delphi"]
-	path = FastSpring4Delphi
-	url = https://github.com/DeveloppeurPascal/FastSpring4Delphi.git
-[submodule "1TPE4Delphi"]
-	path = 1TPE4Delphi
-	url = https://github.com/DeveloppeurPascal/1TPE4Delphi.git
-[submodule "Signature-Delphi-Component"]
-	path = Signature-Delphi-Component
-	url = https://github.com/DeveloppeurPascal/Signature-Delphi-Component.git
