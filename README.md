@@ -1,61 +1,53 @@
-# DevPas-Components-Pack
+# Components packs and libraries from DeveloppeurPascal in one code repository
 
-Regroupement des dépôts permettant d'ajouter des fonctionnalités sous forme de librairies ou de composants à Delphi
+[Cette page en français.](LISEZMOI.md)
 
-A utiliser si vous désirez installer tous mes packs de composants en une seule fois au lieu de les faire un par un.
+Grouping of repositories for adding features in the form of libraries or components to Delphi.
 
------
+Use this if you want to install all my component packs at once, instead of doing them one by one.
 
-Vous pouvez [soutenir les projets sur lesquels je travaille](https://vasur.fr/sponsoropensource) et en profiter pour accéder à tout ce que je fais en ligne. Chaque abonnement compte pour me donner du temps pour travailer sur ces projets open source et produire les articles et les vidéos auxquels vous aurez accès depuis [Zone Abo](https://zone-abo.fr), [Serial Streameur](https://serialstreameur.fr) et [Apprendre Delphi](https://apprendre-delphi.fr).
+It contains projects developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
------
+## Install
 
-* androidtv-delphi
-https://github.com/DeveloppeurPascal/androidtv-delphi
+If you download a ZIP file from GitHub it will be empty. You must use "git" command or a GUI to clone or fork this code repository with its submodules.
 
-Librairies et composants dédiés au développement d'applications Android à destination de AndroidTV, des TV Android et box Android TV.
+After cloning this repository, don't forget to update all projects with the command :
 
-* Delphi-DBExtend-Library
-https://github.com/DeveloppeurPascal/Delphi-DBExtend-Library
+```bash
+git submodule update --remote
+```
 
-Librairies et composants ajoutant des fonctionnalités aux frameworks de bases de données fournis par Embarcadero ou proposés par d'autres éditeurs.
+If you didn't clone the project with its sub modules, use those git commands : 
 
-* Delphi-FMXExtend-Library
-https://github.com/DeveloppeurPascal/Delphi-FMXExtend-Library
+```bash
+git submodule init
+git submodule update --remote
+```
 
-Librairies et composants dédiés aux projets FireMonkey.
+[This repository](https://github.com/DeveloppeurPascal/DevPas-Components-Pack) and all projects are available on [my GitHub account](https://github.com/DeveloppeurPascal).
 
-* Delphi-NoCode-Library
-https://github.com/DeveloppeurPascal/Delphi-NoCode-Library
+## License
 
-Librairies et composants permettant d'ajouter des fonctionnalités "no code" qui ne sont pas disponibles en standard dans Delphi. Touche les projets VCL et FireMonkey.
+This project is under the MIT license. It's not the case for all of my other projects. Look as each one LICENSE and README.md file before doing garbage.
 
-* Delphi-VCLExtend-Library
-https://github.com/DeveloppeurPascal/Delphi-VCLExtend-Library
+## How to ask a new feature, report a bug or a security issue ?
 
-Librairies et composants dédiés aux projets VCL.
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/DevPas-Components-Pack) and [open a new issue](https://github.com/DeveloppeurPascal/DevPas-Components-Pack/issues).
 
-* FMXGameEngine
-https://github.com/DeveloppeurPascal/FMXGameEngine.git
+If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
 
-Librairies et composants dédiés à la programmation de jeux vidéos en projets FireMonkey sous Delphi.
+You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-* librairies
-https://github.com/DeveloppeurPascal/librairies
+## Support the project and its author
 
-Librairies de classes, procédures et fonctions que j'utilise un peu partout dans mes projets. Un fourre tout sous forme de boite à outils.
+If you think this project is useful and want to support it, please make a donation to [its author](https://github.com/DeveloppeurPascal). It will help to maintain the code and binaries.
 
------
+You can use one of those services :
 
-Si vous ne connaissez pas Delphi et le langage Pascal, profitez de la version Academic (pour les étudiants, enseignants et établissements d'enseignement) ou Community Edition (gratuite pour une utilisation personnelle) disponibles chez Embarcadero (rubrique "outils gratuits").
-En entreprise vous pouvez aussi tester Delphi avec la version d'évaluation.
-https://www.embarcadero.com/products/delphi
+* [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal)
+* [Liberapay](https://liberapay.com/PatrickPremartin)
+* [Patreon](https://www.patreon.com/patrickpremartin)
+* [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
 
-Cette formation en ligne gratuite vous apprendra les bases de la programmation avec le Pascal et Delphi même si vous n'avez jamais appris à programmer :
-https://apprendre-delphi.fr/apprendre-la-programmation-avec-delphi/
-
-Des conférences en ligne et des webinaires (points techniques sur des sujets précis) sont organisés régulièrement. Consultez [le planning de ces webinaires](https://developpeur-pascal.fr/p/_6007-webinaires.html) et regardez les [rediffusions des webinaires Delphi](https://serialstreameur.fr/webinaires-delphi.php).
-
-Des sessions de [live coding sur Twitch](https://www.twitch.tv/patrickpremartin) ou [la chaîne YouTube Developpeur Pascal](https://www.youtube.com/channel/UCk_LmkBB90jdEdmfF77W6qQ) sont également organisées régulièrement. Pour Twitch vous pouvez consulter [le planning hebdomadaire](https://www.twitch.tv/patrickpremartin/schedule). Vous pouvez aussi vous reporter à [cet article](https://developpeur-pascal.fr/p/_600e-livestreams-de-codage-en-direct-avec-delphi.html). Pour les rediffusions de tout ça, rendez-vous simplement dans la [rubrique live coding](https://serialstreameur.fr/live-coding.php) de [Serial Streameur](https://serialstreameur.fr/) où vous trouverez de nombreuses vidéos en français à destination des développeurs de logiciels, applications mobiles, sites web et jeux vidéo.
-
-Enfin, si vous préférez la lecture à la vidéo, vous trouverez tous les livres récents publiés sur Delphi et le langage Pascal sur [Delphi Books](https://delphi-books.com)
+or if you speack french you can [subscribe to Zone Abo](https://zone-abo.fr/nos-abonnements.php) on a monthly or yearly basis and get a lot of resources as videos and articles.
