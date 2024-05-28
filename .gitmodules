@@ -40,3 +40,6 @@
 [submodule "DelphiBooks-Common"]
 	path = DelphiBooks-Common
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-Common.git
+[submodule "Delphi-SkiaExtend-Library"]
+	path = Delphi-SkiaExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-SkiaExtend-Library.git
