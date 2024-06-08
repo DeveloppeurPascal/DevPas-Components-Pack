@@ -46,3 +46,6 @@
 [submodule "TableDataSync4Delphi"]
 	path = TableDataSync4Delphi
 	url = https://github.com/DeveloppeurPascal/TableDataSync4Delphi.git
+[submodule "FSoDB4Delphi"]
+	path = FSoDB4Delphi
+	url = https://github.com/DeveloppeurPascal/FSoDB4Delphi.git
