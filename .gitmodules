@@ -43,3 +43,6 @@
 [submodule "Delphi-SkiaExtend-Library"]
 	path = Delphi-SkiaExtend-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-SkiaExtend-Library.git
+[submodule "TableDataSync4Delphi"]
+	path = TableDataSync4Delphi
+	url = https://github.com/DeveloppeurPascal/TableDataSync4Delphi.git
