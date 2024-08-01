@@ -1,6 +1,6 @@
 # Librairies et packs de composants de DeveloppeurPascal en un seul dépôt
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 Regroupement des dépôts permettant d'ajouter des fonctionnalités sous forme de librairies ou de composants à Delphi.
 
